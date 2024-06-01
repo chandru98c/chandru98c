@@ -11,11 +11,11 @@
 
 🔧 Skills:
 
-➡️ Front-End: HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS
-➡️ Back-End: Python, Node.js, Express.js
-➡️ Databases: SQL, MongoDB
-➡️ Full-Stack: MERN Stack (MongoDB, Express.js, React, Node.js)
-➡️ Tools & Platforms: Figma, VS Code, Git, GitHub, Docker
+➡️ Front-End: HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS.
+➡️ Back-End: Python, Node.js, Express.js.
+➡️ Databases: SQL, MongoDB.
+➡️ Full-Stack: MERN Stack (MongoDB, Express.js, React, Node.js).
+➡️ Tools & Platforms: Figma, VS Code, Git, GitHub, Docker.
 
 
 🚀 Projects:
@@ -27,7 +27,7 @@
 
 📚 Education:
 
-🎓 Bachelor of Computer Applications (BCA) | Guru Nanak College, Chennai | 2024
+🎓 Bachelor of Computer Applications (BCA) | Guru Nanak College, Chennai | 2024.
 
 
 📫 Contact Me:
