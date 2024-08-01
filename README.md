@@ -15,7 +15,7 @@
 ➡️ Back-End: Python, Node.js, Express.js.
 ➡️ Databases: SQL, MongoDB.
 ➡️ Full-Stack: MERN Stack (MongoDB, Express.js, React, Node.js).
-➡️ Tools & Platforms: Figma, VS Code, Git, GitHub, Docker.
+➡️ Tools & Platforms: Figma, VS Code, Git, GitHub, Postman.
 
 
 🚀 Projects:
