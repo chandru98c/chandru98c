@@ -29,12 +29,14 @@
 
 🎓 Bachelor of Computer Applications (BCA) | Guru Nanak College, Chennai | 2024.
 
+💬 Let's Connect:
+POrtfolio: https://santhosh-chandran.netlify.app/
+Open to collaboration on exciting projects and new job opportunities. Feel free to reach out!
 
 📫 Contact Me:
 
 Email: santhosh98c@gmail.com
 
 
-💬 Let's Connect:
-Open to collaboration on exciting projects and new job opportunities. Feel free to reach out!
+
 
